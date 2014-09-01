@@ -32,7 +32,8 @@ namespace HubApp1
 
         /// <summary>
         /// Initializes the singleton instance of the <see cref="App"/> class. This is the first line of authored code
-        /// executed, and as such is the logical equivalent of main() or WinMain().
+        /// executed, 
+        /// Test comment by vinay
         /// </summary>
         public App()
         {
